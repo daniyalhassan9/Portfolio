@@ -29,6 +29,29 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+
+/* Class for Images in the fav technologies section*/
+
+#box-container {
+    
+    display: flex;
+    height: 750px;
+    align-items: center;
+    
+  }
+  #box-1 {
+    
+    width: 100px;
+    font-size: 24px;
+  }
+
+  #box-2 {
+
+    width: 200px;
+    font-size: 18px;
+  }
+  
+ 
 body {
 	line-height: 1;
 }
